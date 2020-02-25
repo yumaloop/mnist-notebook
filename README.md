@@ -30,7 +30,7 @@ $ git clone https://github.com/yumaloop/mnist-notebook.git
 $ pip3 install -r requirements.txt
 ```
 
-3. Edit `sample_notebook.ipymb` with jupyter on localhost:8888.
+3. Edit `sample_notebook.ipynb` with jupyter on localhost:8888.
 ```bash
 $ jupyter notebook
 ```
