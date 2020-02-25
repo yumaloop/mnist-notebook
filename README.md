@@ -20,12 +20,17 @@
 
 ### Usage
 
-1. Install python packages by using pip
+1. Clone this repo to your workspace.
+```bash
+$ git clone https://github.com/yumaloop/mnist-notebook.git
+```
+
+2. Install python packages by using pip.
 ```bash
 $ pip3 install -r requirements.txt
 ```
 
-2. Edit `sample_notebook.ipymb` with jupyter on localhost:8888
+3. Edit `sample_notebook.ipymb` with jupyter on localhost:8888.
 ```bash
 $ jupyter notebook
 ```
